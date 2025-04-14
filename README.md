@@ -17,3 +17,5 @@
 - 🤙 Connect on [LinkedIn](https://www.linkedin.com/in/yattt/)
 
 🚀 **Stay tuned** for cool projects and AI experiments on my repositories!
+
+[![Yatt's GitHub stats](https://github-readme-stats.vercel.app/api?username=yatt-code)](https://github.com/anuraghazra/github-readme-stats)
