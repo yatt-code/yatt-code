@@ -18,4 +18,6 @@
 
 🚀 **Stay tuned** for cool projects and AI experiments on my repositories!
 
-![Yatt's GitHub stats](https://github-readme-stats.vercel.app/api?username=yatt-code&show_icons=true&theme=dracula)
+![yatt-code's Stats](https://github-readme-stats.vercel.app/api?username=yatt-code&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![Yatt's Streak](https://github-readme-streak-stats.herokuapp.com/?user=yatt-code&theme=vue-dark&hide_border=true)
+![Yatt's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yatt-code&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
